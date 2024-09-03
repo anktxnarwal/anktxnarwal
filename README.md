@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Tailwind, ReactJs, NodeJs**
+- 🌱 I’m currently learning **Typescript, ReactJs, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anktxnarwal](https://github.com/anktxnarwal)
 
