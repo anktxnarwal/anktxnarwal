@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ankitnarwal224@gmail.com**
 
-- 📄 Know about my experiences [https://anktxnarwal.github.io/portfolio/](https://anktxnarwal.github.io/portfolio/)
+- 📄 Know about my experiences [https://main--ankitxnarwal-portfolio.netlify.app/](https://main--ankitxnarwal-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
